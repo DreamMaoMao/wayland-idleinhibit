@@ -13,7 +13,7 @@ sudo ninja -C build instal
 wayland-idleinhibit
 ```
 
-# example(when download or upload something)
+# example(Avoid idle automatic shutdown when download or upload something)
 ```bash
 #!/usr/bin/bash
 
