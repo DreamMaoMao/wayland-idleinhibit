@@ -34,3 +34,6 @@ do
     sleep 60s
 done
 ```
+
+# refer
+https://github.com/ErikReider/SwayAudioIdleInhibit
